@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\CSLight\CSLight\bin\Debug\CSLight.exe.config
+C:\Users\Acer\source\repos\CSLight\CSLight\bin\Debug\CSLight.exe
+C:\Users\Acer\source\repos\CSLight\CSLight\bin\Debug\CSLight.pdb
+C:\Users\Acer\source\repos\CSLight\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\CSLight\CSLight\obj\Debug\CSLight.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\CSLight\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CSLight\CSLight\obj\Debug\CSLight.exe
+C:\Users\Acer\source\repos\CSLight\CSLight\obj\Debug\CSLight.pdb
